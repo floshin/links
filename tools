@@ -1,0 +1,15 @@
+dwm: 
+https://dwm.suckless.org/
+
+leftwm: tiling window manager written in rust
+http://leftwm.org/
+
+mailspring-libre: 
+https://github.com/notpushkin/Mailspring-Libre
+
+neomutt: command line mail reader (fork of mutt)
+https://neomutt.org/
+
+vscodium: vscode without telemetry etc.
+https://vscodium.com/
+
