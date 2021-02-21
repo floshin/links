@@ -1,5 +1,6 @@
-list of tools I recommend
-=========================
+list of tools I can recommend 
+or that I save to try them out
+==============================
 
 [ os ]
 (desktop) archlabs: https://archlabslinux.com/
@@ -8,6 +9,10 @@ list of tools I recommend
 [ window managers ]
 dwm (C): https://dwm.suckless.org/
 leftwm (rust): http://leftwm.org/
+
+[ file manager ]
+ranger (python): https://github.com/ranger/ranger
+lf (go): https://github.com/gokcehan/lf
 
 [ browsers ]
 (desktop) qutebrowser: https://qutebrowser.org/
