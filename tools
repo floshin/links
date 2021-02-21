@@ -1,15 +1,15 @@
-dwm: 
-https://dwm.suckless.org/
+list of tools I recommend
+=========================
 
-leftwm: tiling window manager written in rust
-http://leftwm.org/
+[ window managers ]
+dwm (C): https://dwm.suckless.org/
+leftwm (rust): http://leftwm.org/
 
-mailspring-libre: 
-https://github.com/notpushkin/Mailspring-Libre
+[ email clients ]
+neomutt: https://neomutt.org/
+mailspring-libre: https://github.com/notpushkin/Mailspring-Libre
 
-neomutt: command line mail reader (fork of mutt)
-https://neomutt.org/
-
-vscodium: vscode without telemetry etc.
-https://vscodium.com/
+[ text editors ]
+neovim: https://github.com/neovim/neovim
+vscodium: https://vscodium.com/ 
 
