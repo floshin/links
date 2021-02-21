@@ -1,9 +1,17 @@
 list of tools I recommend
 =========================
 
+[ os ]
+(desktop) archlabs: https://archlabslinux.com/
+(phone) grapheneos: https://grapheneos.org/
+
 [ window managers ]
 dwm (C): https://dwm.suckless.org/
 leftwm (rust): http://leftwm.org/
+
+[ browsers ]
+(desktop) qutebrowser: https://qutebrowser.org/
+(phone) vanadium: https://github.com/GrapheneOS/Vanadium
 
 [ email clients ]
 neomutt: https://neomutt.org/
@@ -12,4 +20,11 @@ mailspring-libre: https://github.com/notpushkin/Mailspring-Libre
 [ text editors ]
 neovim: https://github.com/neovim/neovim
 vscodium: https://vscodium.com/ 
+wordgrinder: https://github.com/davidgiven/wordgrinder
 
+[ private messingers ]
+signal: https://www.signal.org/
+briar: https://briarproject.org/
+
+[ presentations ]
+sent: http://tools.suckless.org/sent/
