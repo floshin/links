@@ -1,0 +1,17 @@
+# random link list
+
+* [GrapheneOS](https://grapheneos.org/) (A privacy and security focused mobile OS)
+* [VoidLinux](https://voidlinux.org/) (OS based on the monolithic linux kernel)
+* [ArchLinux](https://archlinux.org/) (lightweight & flexible linux distro)
+* [Vanadium](https://github.com/GrapheneOS/Vanadium) (a privacy and security hardened variant of Chromium)
+* [Hexavalent](https://github.com/Hexavalent-Browser/Hexavalent) (A Chromium downstream project)
+* [dwm](https://dwm.suckless.org/) (a dynamic window manager for X)
+* [Matrix](https://matrix.org/) (An open network for secure, decentralized communication)
+* [Signal](https://www.signal.org/de/) (Messaging with state-of-the-art end-to-end encryption)
+* [Nitter](https://nitter.net/about) (a foss alternative Twitter front-end focused on privacy)
+* [age](https://github.com/FiloSottile/age) (a simple, modern and secure file encryption tool)
+* [madaidan](https://madaidans-insecurities.github.io/index.html) (security & privacy evaluations)
+* [PeerTube](https://joinpeertube.org/faq) (free and decentralized alternative to video platforms)
+* [Notally](https://github.com/OmGodse/Notally) (extremely light, minimalistic and elegant notes app)
+* [NewPipe](https://newpipe.net/) (lightweight YouTube experience for Android)
+* [Invidious](https://invidious.io/) (an open source alternative front-end to YouTube)
