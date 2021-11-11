@@ -1,8 +1,10 @@
-# random link list
+### Random list of links
 
 * [GrapheneOS](https://grapheneos.org/) (A privacy and security focused mobile OS)
 * [VoidLinux](https://voidlinux.org/) (OS based on the monolithic linux kernel)
 * [ArchLinux](https://archlinux.org/) (lightweight & flexible linux distro)
+* [KissLinux](https://kisslinux.org/) (simple, sustainable meta-distribution)
+* [AlpineLinux](https://www.alpinelinux.org/) (a security-oriented, lightweight distro)
 * [Vanadium](https://github.com/GrapheneOS/Vanadium) (a privacy and security hardened variant of Chromium)
 * [Hexavalent](https://github.com/Hexavalent-Browser/Hexavalent) (A Chromium downstream project)
 * [TorBrowser](https://www.torproject.org/) (private browser without tracking, surveillance, or censorship)
@@ -20,3 +22,8 @@
 * [icedrive](https://icedrive.net/) (cloud storage focused on privacy and security)
 * [tresorit](https://tresorit.com/) (secure cloud with E2EE and zero knowledge)
 * [protonmail](https://protonmail.com/) ("secure" email based in switzerland)
+* [chocolatey](https://chocolatey.org/why-chocolatey) (package manager for windows)
+* [QR-Scan](https://grapheneos.org/usage#grapheneos-camera-app) (included in Graphenes camera app)
+* [WordGrinder](https://github.com/davidgiven/wordgrinder) (a simple console word processor)
+* [normies-dont-care-about-privacy](https://gist.github.com/joepie91/6a5f50b27965c711436f5b566f97960d)
+* [ad-blocking](https://grapheneos.org/faq#ad-blocking) (mobile ad-blocking approach)
